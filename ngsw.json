@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1749473950591,
+  "timestamp": 1749583829236,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -15,14 +15,14 @@
         "/chunk-AUXFRLY5.js",
         "/chunk-BQR6LR7G.js",
         "/chunk-C6ALKBQF.js",
+        "/chunk-H4IZPSFL.js",
         "/chunk-OLDVKN46.js",
-        "/chunk-VBXJY2UE.js",
         "/chunk-XAZLOLJU.js",
         "/index.html",
-        "/main-BOQEU7YC.js",
+        "/main-6MDIEDSG.js",
         "/manifest.webmanifest",
         "/polyfills-FFHMD2TL.js",
-        "/styles-WX43B3WW.css"
+        "/styles-R2ZHJHXW.css"
       ],
       "patterns": []
     },
@@ -40,9 +40,11 @@
         "/favicon/favicon-16x16.png",
         "/favicon/favicon-32x32.png",
         "/fonts/IBMPlexSans-Bold.ttf",
+        "/fonts/IBMPlexSans-Light.ttf",
         "/fonts/IBMPlexSans-Regular.ttf",
         "/fonts/IBMPlexSans-SemiBold.ttf",
         "/fonts/SpaceGrotesk-Bold.ttf",
+        "/fonts/SpaceGrotesk-Light.ttf",
         "/fonts/SpaceGrotesk-Medium.ttf",
         "/fonts/SpaceGrotesk-Regular.ttf",
         "/fonts/SpaceGrotesk-SemiBold.ttf",
@@ -103,6 +105,7 @@
         "/media/IBMPlexSans-Regular-Y7OIJUC4.ttf",
         "/media/IBMPlexSans-SemiBold-SYL6P6R5.ttf",
         "/media/SpaceGrotesk-Bold-N65JYTBD.ttf",
+        "/media/SpaceGrotesk-Light-D5H6BZJS.ttf",
         "/media/SpaceGrotesk-Medium-CUZ7Q2I3.ttf",
         "/media/SpaceGrotesk-Regular-WFDHGPHV.ttf"
       ],
@@ -115,8 +118,8 @@
     "/chunk-AUXFRLY5.js": "344512a566f4aed09a102fe390365304a72bc010",
     "/chunk-BQR6LR7G.js": "a990207427089b20f8e6fc9d5dc95ff9ec598ad7",
     "/chunk-C6ALKBQF.js": "cf32757db74f820699ece63840e8d20c136d6a25",
+    "/chunk-H4IZPSFL.js": "879623d6cc628ade73147273248104c5f3687c2d",
     "/chunk-OLDVKN46.js": "855b61b7225a6bbf2f8ec791f76539e117223a9d",
-    "/chunk-VBXJY2UE.js": "06939b46fda2b17cb3aa8a3b772ff747b966862f",
     "/chunk-XAZLOLJU.js": "b74f9f7c9c89d3e0833edcdc0bc0106497008129",
     "/favicon/android-chrome-192x192.png": "f461315f4bcb71bf457ecee098bd6e145a8e9263",
     "/favicon/android-chrome-512x512.png": "cd2b784693145098f3cb9286a05481a1d8685443",
@@ -124,9 +127,11 @@
     "/favicon/favicon-16x16.png": "869b66ecdff0262af0cac4fe8a2168d33e4aca48",
     "/favicon/favicon-32x32.png": "a6e8e61af42d73d4a690613c561dfba54b08c080",
     "/fonts/IBMPlexSans-Bold.ttf": "6c829b9e0904df3399e7ac03ee1bb1f72c2d5e52",
+    "/fonts/IBMPlexSans-Light.ttf": "734d51ab82208ed43745a6f68bae0a91b05b5ca3",
     "/fonts/IBMPlexSans-Regular.ttf": "8e18e19c963fd6b0895620010d1a4adbc2d2caf7",
     "/fonts/IBMPlexSans-SemiBold.ttf": "45bed8ec82912658ca349d6332084a12266fcc7a",
     "/fonts/SpaceGrotesk-Bold.ttf": "b2aa14fa837cf3ed5e647c87906e88238d88c548",
+    "/fonts/SpaceGrotesk-Light.ttf": "d28b8bb3609a9c65c5ad097360a55b24094b0451",
     "/fonts/SpaceGrotesk-Medium.ttf": "53a82dc42149eb575e8e38dcd0c618899e7e8b8f",
     "/fonts/SpaceGrotesk-Regular.ttf": "d1666e3605d713802650ab26c0914238ca124274",
     "/fonts/SpaceGrotesk-SemiBold.ttf": "0f5ec8c385c42b65cd8bcb494f26e9c282d6a107",
@@ -183,17 +188,18 @@
     "/images/logos/technologies/xamarin.svg": "0819f84f2162b31662ca2f42a6d987f880aa51f8",
     "/images/richard-hero.webp": "8b43406d515d692f5297c052e397c9f535cc9438",
     "/images/richard.jpg": "e352aa389490a060ec7b879b86cf2b8cd29c1330",
-    "/index.html": "f7d059d2be698dec976f102936bc1203600d31d5",
-    "/main-BOQEU7YC.js": "525bc10b22ca4a1d922d3efef13e80a6bea5427f",
+    "/index.html": "bf07590c55981ddbe66af8fe83b1524689ba8036",
+    "/main-6MDIEDSG.js": "9fa708e1a37b24c5bab366bfbdcf6f0637d868c4",
     "/manifest.webmanifest": "9091cb2f94e45774ea658ce2bae65afc7deab5a8",
     "/media/IBMPlexSans-Bold-562ZBJQ2.ttf": "6c829b9e0904df3399e7ac03ee1bb1f72c2d5e52",
     "/media/IBMPlexSans-Regular-Y7OIJUC4.ttf": "8e18e19c963fd6b0895620010d1a4adbc2d2caf7",
     "/media/IBMPlexSans-SemiBold-SYL6P6R5.ttf": "45bed8ec82912658ca349d6332084a12266fcc7a",
     "/media/SpaceGrotesk-Bold-N65JYTBD.ttf": "b2aa14fa837cf3ed5e647c87906e88238d88c548",
+    "/media/SpaceGrotesk-Light-D5H6BZJS.ttf": "d28b8bb3609a9c65c5ad097360a55b24094b0451",
     "/media/SpaceGrotesk-Medium-CUZ7Q2I3.ttf": "53a82dc42149eb575e8e38dcd0c618899e7e8b8f",
     "/media/SpaceGrotesk-Regular-WFDHGPHV.ttf": "d1666e3605d713802650ab26c0914238ca124274",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "/styles-WX43B3WW.css": "8a00fc00a77f69275dfa86ffb95a45ab3e28e97c"
+    "/styles-R2ZHJHXW.css": "03eacd63fe143b9ea2752c54adf1b689687cb5a5"
   },
   "navigationUrls": [
     {
