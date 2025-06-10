@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1749583829236,
+  "timestamp": 1749585358127,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
+        "/chunk-AEPBKGG6.js",
         "/chunk-ARVR5YT4.js",
         "/chunk-AUXFRLY5.js",
         "/chunk-BQR6LR7G.js",
         "/chunk-C6ALKBQF.js",
-        "/chunk-H4IZPSFL.js",
         "/chunk-OLDVKN46.js",
         "/chunk-XAZLOLJU.js",
         "/index.html",
-        "/main-6MDIEDSG.js",
+        "/main-44VPBIRZ.js",
         "/manifest.webmanifest",
         "/polyfills-FFHMD2TL.js",
         "/styles-R2ZHJHXW.css"
@@ -114,11 +114,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/chunk-AEPBKGG6.js": "1367a1eab3d6026282125e1e980450559a7181f5",
     "/chunk-ARVR5YT4.js": "8ebc8e19f9c1f844672adbeb26668bd39b715c86",
     "/chunk-AUXFRLY5.js": "344512a566f4aed09a102fe390365304a72bc010",
     "/chunk-BQR6LR7G.js": "a990207427089b20f8e6fc9d5dc95ff9ec598ad7",
     "/chunk-C6ALKBQF.js": "cf32757db74f820699ece63840e8d20c136d6a25",
-    "/chunk-H4IZPSFL.js": "879623d6cc628ade73147273248104c5f3687c2d",
     "/chunk-OLDVKN46.js": "855b61b7225a6bbf2f8ec791f76539e117223a9d",
     "/chunk-XAZLOLJU.js": "b74f9f7c9c89d3e0833edcdc0bc0106497008129",
     "/favicon/android-chrome-192x192.png": "f461315f4bcb71bf457ecee098bd6e145a8e9263",
@@ -188,8 +188,8 @@
     "/images/logos/technologies/xamarin.svg": "0819f84f2162b31662ca2f42a6d987f880aa51f8",
     "/images/richard-hero.webp": "8b43406d515d692f5297c052e397c9f535cc9438",
     "/images/richard.jpg": "e352aa389490a060ec7b879b86cf2b8cd29c1330",
-    "/index.html": "bf07590c55981ddbe66af8fe83b1524689ba8036",
-    "/main-6MDIEDSG.js": "9fa708e1a37b24c5bab366bfbdcf6f0637d868c4",
+    "/index.html": "4432f35f141f7978e78b6c4c4c38feb349f9d457",
+    "/main-44VPBIRZ.js": "552ce973693b74746f7ce39e7ac6cafbb6b1945d",
     "/manifest.webmanifest": "9091cb2f94e45774ea658ce2bae65afc7deab5a8",
     "/media/IBMPlexSans-Bold-562ZBJQ2.ttf": "6c829b9e0904df3399e7ac03ee1bb1f72c2d5e52",
     "/media/IBMPlexSans-Regular-Y7OIJUC4.ttf": "8e18e19c963fd6b0895620010d1a4adbc2d2caf7",
