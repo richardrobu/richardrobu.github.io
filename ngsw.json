@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1749588001386,
+  "timestamp": 1750759902200,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -19,7 +19,7 @@
         "/chunk-QCMS6BNZ.js",
         "/chunk-XAZLOLJU.js",
         "/index.html",
-        "/main-UN7TZRYN.js",
+        "/main-CN3VSCN5.js",
         "/manifest.webmanifest",
         "/polyfills-FFHMD2TL.js",
         "/styles-R2ZHJHXW.css"
@@ -100,7 +100,7 @@
         "/images/logos/technologies/vue.svg",
         "/images/logos/technologies/xamarin.svg",
         "/images/richard-hero.webp",
-        "/images/richard.jpg",
+        "/images/richard.webp",
         "/media/IBMPlexSans-Bold-562ZBJQ2.ttf",
         "/media/IBMPlexSans-Regular-Y7OIJUC4.ttf",
         "/media/IBMPlexSans-SemiBold-SYL6P6R5.ttf",
@@ -187,9 +187,9 @@
     "/images/logos/technologies/vue.svg": "995b899fe5226795f5c3214ecd98e204b9ff822b",
     "/images/logos/technologies/xamarin.svg": "0819f84f2162b31662ca2f42a6d987f880aa51f8",
     "/images/richard-hero.webp": "8b43406d515d692f5297c052e397c9f535cc9438",
-    "/images/richard.jpg": "e352aa389490a060ec7b879b86cf2b8cd29c1330",
-    "/index.html": "1cc9c352a94e534e6da9cfd7f2f0673f5c8a0355",
-    "/main-UN7TZRYN.js": "eff03e9c2aa25625c57d42b653c122fbe972e059",
+    "/images/richard.webp": "7aca7e43d6bf415f54a8a43f8c12b816e6f27651",
+    "/index.html": "c920811e601861f921fdf9dcf41d495c74c7b3cd",
+    "/main-CN3VSCN5.js": "2f00d8eab1b3d7a77c0e55a7c66bd24b0a701c6b",
     "/manifest.webmanifest": "9091cb2f94e45774ea658ce2bae65afc7deab5a8",
     "/media/IBMPlexSans-Bold-562ZBJQ2.ttf": "6c829b9e0904df3399e7ac03ee1bb1f72c2d5e52",
     "/media/IBMPlexSans-Regular-Y7OIJUC4.ttf": "8e18e19c963fd6b0895620010d1a4adbc2d2caf7",
