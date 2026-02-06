@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1750762857596,
+  "timestamp": 1770374282033,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,18 +11,18 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-ARVR5YT4.js",
-        "/chunk-AUXFRLY5.js",
-        "/chunk-BQR6LR7G.js",
-        "/chunk-C6ALKBQF.js",
-        "/chunk-OLDVKN46.js",
-        "/chunk-QCMS6BNZ.js",
+        "/chunk-5DEBW4VV.js",
+        "/chunk-NYW4R5JG.js",
+        "/chunk-P4I76NQU.js",
+        "/chunk-QG64A36P.js",
         "/chunk-XAZLOLJU.js",
+        "/chunk-Y6DI3JO4.js",
+        "/chunk-ZFD7WSHC.js",
         "/index.html",
-        "/main-CN3VSCN5.js",
+        "/main-PW7MOI6F.js",
         "/manifest.webmanifest",
         "/polyfills-FFHMD2TL.js",
-        "/styles-R2ZHJHXW.css"
+        "/styles-UKS7D3Q4.css"
       ],
       "patterns": []
     },
@@ -101,26 +101,23 @@
         "/images/logos/technologies/xamarin.svg",
         "/images/richard-hero.webp",
         "/images/richard.webp",
-        "/media/IBMPlexSans-Bold-562ZBJQ2.ttf",
-        "/media/IBMPlexSans-Regular-Y7OIJUC4.ttf",
-        "/media/IBMPlexSans-SemiBold-SYL6P6R5.ttf",
-        "/media/SpaceGrotesk-Bold-N65JYTBD.ttf",
-        "/media/SpaceGrotesk-Light-D5H6BZJS.ttf",
-        "/media/SpaceGrotesk-Medium-CUZ7Q2I3.ttf",
-        "/media/SpaceGrotesk-Regular-WFDHGPHV.ttf"
+        "/media/primeicons-4GST5W3O.woff2",
+        "/media/primeicons-DHQU4SEP.svg",
+        "/media/primeicons-GEFHGEHP.ttf",
+        "/media/primeicons-P53SE5CV.woff"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/chunk-ARVR5YT4.js": "8ebc8e19f9c1f844672adbeb26668bd39b715c86",
-    "/chunk-AUXFRLY5.js": "344512a566f4aed09a102fe390365304a72bc010",
-    "/chunk-BQR6LR7G.js": "a990207427089b20f8e6fc9d5dc95ff9ec598ad7",
-    "/chunk-C6ALKBQF.js": "cf32757db74f820699ece63840e8d20c136d6a25",
-    "/chunk-OLDVKN46.js": "855b61b7225a6bbf2f8ec791f76539e117223a9d",
-    "/chunk-QCMS6BNZ.js": "dfe7693ce90a749b27d43459bc0a3921e0587797",
+    "/chunk-5DEBW4VV.js": "2612eaf13daa17322cae738f076ec3199a2a87ab",
+    "/chunk-NYW4R5JG.js": "bee14ce97652ccffe0eae33ef8889eb67d766e18",
+    "/chunk-P4I76NQU.js": "4431bc0fa014bf897a7d849d8a163ecb21cb2a92",
+    "/chunk-QG64A36P.js": "ecfe96ad7c204f5f02ac3309687665b6ec558c6a",
     "/chunk-XAZLOLJU.js": "b74f9f7c9c89d3e0833edcdc0bc0106497008129",
+    "/chunk-Y6DI3JO4.js": "d0072f47a7371da4b1056d17bcb8157fa266bb2d",
+    "/chunk-ZFD7WSHC.js": "7e38a8d191690bddf165288f1890169c2b389973",
     "/favicon/android-chrome-192x192.png": "f461315f4bcb71bf457ecee098bd6e145a8e9263",
     "/favicon/android-chrome-512x512.png": "cd2b784693145098f3cb9286a05481a1d8685443",
     "/favicon/apple-touch-icon.png": "9822e4452ff1958b45dbb7db06abc4c4d4c2fccd",
@@ -188,18 +185,15 @@
     "/images/logos/technologies/xamarin.svg": "0819f84f2162b31662ca2f42a6d987f880aa51f8",
     "/images/richard-hero.webp": "8b43406d515d692f5297c052e397c9f535cc9438",
     "/images/richard.webp": "7aca7e43d6bf415f54a8a43f8c12b816e6f27651",
-    "/index.html": "c920811e601861f921fdf9dcf41d495c74c7b3cd",
-    "/main-CN3VSCN5.js": "2f00d8eab1b3d7a77c0e55a7c66bd24b0a701c6b",
+    "/index.html": "3b147fa81b0408e72d72682f65f3f8ae1f27d478",
+    "/main-PW7MOI6F.js": "23ddad3002abdcd2b6dea4b20eb3cf7095ca0d73",
     "/manifest.webmanifest": "9091cb2f94e45774ea658ce2bae65afc7deab5a8",
-    "/media/IBMPlexSans-Bold-562ZBJQ2.ttf": "6c829b9e0904df3399e7ac03ee1bb1f72c2d5e52",
-    "/media/IBMPlexSans-Regular-Y7OIJUC4.ttf": "8e18e19c963fd6b0895620010d1a4adbc2d2caf7",
-    "/media/IBMPlexSans-SemiBold-SYL6P6R5.ttf": "45bed8ec82912658ca349d6332084a12266fcc7a",
-    "/media/SpaceGrotesk-Bold-N65JYTBD.ttf": "b2aa14fa837cf3ed5e647c87906e88238d88c548",
-    "/media/SpaceGrotesk-Light-D5H6BZJS.ttf": "d28b8bb3609a9c65c5ad097360a55b24094b0451",
-    "/media/SpaceGrotesk-Medium-CUZ7Q2I3.ttf": "53a82dc42149eb575e8e38dcd0c618899e7e8b8f",
-    "/media/SpaceGrotesk-Regular-WFDHGPHV.ttf": "d1666e3605d713802650ab26c0914238ca124274",
+    "/media/primeicons-4GST5W3O.woff2": "837c1279b6af9d297f34fdb43e6fcc9206a79f32",
+    "/media/primeicons-DHQU4SEP.svg": "a07ae39027c1a780b42fd82fad7575c2924d9d28",
+    "/media/primeicons-GEFHGEHP.ttf": "3b878ca7e88945a8ec25814810b95367d8977ae6",
+    "/media/primeicons-P53SE5CV.woff": "361e3af71bb4e515feead2f787348a92a5527158",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "/styles-R2ZHJHXW.css": "03eacd63fe143b9ea2752c54adf1b689687cb5a5"
+    "/styles-UKS7D3Q4.css": "82c3fcb66bab6e9778e8fa0a09037655869c77b6"
   },
   "navigationUrls": [
     {
