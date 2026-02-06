@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1770374510873,
+  "timestamp": 1770374760240,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -19,7 +19,7 @@
         "/chunk-Y6DI3JO4.js",
         "/chunk-ZFD7WSHC.js",
         "/index.html",
-        "/main-3A4UDRGI.js",
+        "/main-S7KKH5IK.js",
         "/manifest.webmanifest",
         "/polyfills-FFHMD2TL.js",
         "/styles-UKS7D3Q4.css"
@@ -185,8 +185,8 @@
     "/images/logos/technologies/xamarin.svg": "0819f84f2162b31662ca2f42a6d987f880aa51f8",
     "/images/richard-hero.webp": "8b43406d515d692f5297c052e397c9f535cc9438",
     "/images/richard.webp": "7aca7e43d6bf415f54a8a43f8c12b816e6f27651",
-    "/index.html": "66f1af7d1f0bf86aadd566f0d6d5b66030bf6500",
-    "/main-3A4UDRGI.js": "fa9889f9a0fe53a731c282bdc5d5ede858a5ce2f",
+    "/index.html": "47589b8472faaed3bbcf45f35c68d0474a67acc5",
+    "/main-S7KKH5IK.js": "cfb280d5ce88d2543731dac5ddcafce992ac9001",
     "/manifest.webmanifest": "9091cb2f94e45774ea658ce2bae65afc7deab5a8",
     "/media/primeicons-4GST5W3O.woff2": "837c1279b6af9d297f34fdb43e6fcc9206a79f32",
     "/media/primeicons-DHQU4SEP.svg": "a07ae39027c1a780b42fd82fad7575c2924d9d28",
