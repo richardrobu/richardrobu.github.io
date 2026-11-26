@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1770380741602,
+  "timestamp": 1795689757802,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,18 +11,17 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-554RCZYV.js",
-        "/chunk-DXG3JXWB.js",
-        "/chunk-G4Y4JGX2.js",
-        "/chunk-JGHJQKG4.js",
-        "/chunk-LOIJTHE3.js",
-        "/chunk-NCIDKD6S.js",
-        "/chunk-XAZLOLJU.js",
+        "/chunk-2GFUMJF7.js",
+        "/chunk-IDUNDG2O.js",
+        "/chunk-INBE7WSY.js",
+        "/chunk-JJTLCP4A.js",
+        "/chunk-Q3B6SY5O.js",
+        "/chunk-UWIGJBPU.js",
         "/index.html",
-        "/main-YASJVXTB.js",
+        "/main-QSGQEQBI.js",
         "/manifest.webmanifest",
         "/polyfills-FFHMD2TL.js",
-        "/styles-UKS7D3Q4.css"
+        "/styles-MKX5XWJR.css"
       ],
       "patterns": []
     },
@@ -34,6 +33,11 @@
         "ignoreVary": true
       },
       "urls": [
+        "/favicon-rr-180.png",
+        "/favicon-rr-192.png",
+        "/favicon-rr-32.png",
+        "/favicon-rr-512.png",
+        "/favicon-rr.svg",
         "/favicon/android-chrome-192x192.png",
         "/favicon/android-chrome-512x512.png",
         "/favicon/apple-touch-icon.png",
@@ -100,6 +104,7 @@
         "/images/logos/technologies/vue.svg",
         "/images/logos/technologies/xamarin.svg",
         "/images/richard-hero.webp",
+        "/images/richard-linkedin.webp",
         "/images/richard.webp",
         "/media/primeicons-4GST5W3O.woff2",
         "/media/primeicons-DHQU4SEP.svg",
@@ -111,13 +116,17 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/chunk-554RCZYV.js": "abb262eb443bc84d05e5319c3f8d1c3963443017",
-    "/chunk-DXG3JXWB.js": "29ebf3b58b06e526e750fe2efbefe3e1c0d17a28",
-    "/chunk-G4Y4JGX2.js": "e670020166e173047effbc0a7476609b4bdfb15b",
-    "/chunk-JGHJQKG4.js": "34ebe73120aa48fbb4588a07a3ef397ed17c9d19",
-    "/chunk-LOIJTHE3.js": "24926285c10eb55cf2f81a6468c5ab5f61f8837a",
-    "/chunk-NCIDKD6S.js": "9ea33b17a98d01ee06e7701e63bc57caaf115dda",
-    "/chunk-XAZLOLJU.js": "b74f9f7c9c89d3e0833edcdc0bc0106497008129",
+    "/chunk-2GFUMJF7.js": "085ee286cc32afcf0ef1e85260857248194e4595",
+    "/chunk-IDUNDG2O.js": "c8180c2b6cf923d459f7f22d684c16fb2bc42500",
+    "/chunk-INBE7WSY.js": "d619ff3518915b4d682bcd008e44f8a3ce3d5f8f",
+    "/chunk-JJTLCP4A.js": "1900c91797533181469f4e7e2fa8119811d79062",
+    "/chunk-Q3B6SY5O.js": "75389bd713d3b9cc84ab72063fddc7007e901add",
+    "/chunk-UWIGJBPU.js": "2c8fff50d30fec9594a0b226a22d0e1308c6b707",
+    "/favicon-rr-180.png": "a2eafefd35bba86b31cc3a953de6f1c8b1ab9d58",
+    "/favicon-rr-192.png": "37d9f697d10e0395e4ccc4909360614466f9c20e",
+    "/favicon-rr-32.png": "338c37ac146cf3dbf833f893331d34cb582ce50f",
+    "/favicon-rr-512.png": "3d556e2afff5ceea2a64fb2200e5ebe3c43ec1a7",
+    "/favicon-rr.svg": "0ee23e1c41344d7921f583da33387769cfff824c",
     "/favicon/android-chrome-192x192.png": "f461315f4bcb71bf457ecee098bd6e145a8e9263",
     "/favicon/android-chrome-512x512.png": "cd2b784693145098f3cb9286a05481a1d8685443",
     "/favicon/apple-touch-icon.png": "9822e4452ff1958b45dbb7db06abc4c4d4c2fccd",
@@ -184,16 +193,17 @@
     "/images/logos/technologies/vue.svg": "995b899fe5226795f5c3214ecd98e204b9ff822b",
     "/images/logos/technologies/xamarin.svg": "0819f84f2162b31662ca2f42a6d987f880aa51f8",
     "/images/richard-hero.webp": "8b43406d515d692f5297c052e397c9f535cc9438",
+    "/images/richard-linkedin.webp": "bc3543c253f7de5d526cef63b393e87ee581bcfc",
     "/images/richard.webp": "7aca7e43d6bf415f54a8a43f8c12b816e6f27651",
-    "/index.html": "9ce14b750d4755da7d98283d6753ca96a86f53a4",
-    "/main-YASJVXTB.js": "f893ebd60678996155c7a5901062100d1688898a",
-    "/manifest.webmanifest": "9091cb2f94e45774ea658ce2bae65afc7deab5a8",
+    "/index.html": "38db5c3a2b6f4aca1150d68a28a065980eed0cd0",
+    "/main-QSGQEQBI.js": "cc3dbccef191badf1a5b7beb642bc32670ddd555",
+    "/manifest.webmanifest": "e8df3c2dd98bdcc81f6d66e14b7c1d0249f4c902",
     "/media/primeicons-4GST5W3O.woff2": "837c1279b6af9d297f34fdb43e6fcc9206a79f32",
     "/media/primeicons-DHQU4SEP.svg": "a07ae39027c1a780b42fd82fad7575c2924d9d28",
     "/media/primeicons-GEFHGEHP.ttf": "3b878ca7e88945a8ec25814810b95367d8977ae6",
     "/media/primeicons-P53SE5CV.woff": "361e3af71bb4e515feead2f787348a92a5527158",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "/styles-UKS7D3Q4.css": "82c3fcb66bab6e9778e8fa0a09037655869c77b6"
+    "/styles-MKX5XWJR.css": "f7cf524fb7bf8520b4d7cada62e09f6773c7fecc"
   },
   "navigationUrls": [
     {
